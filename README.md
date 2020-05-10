@@ -1,5 +1,5 @@
 # catharinatiledmaps
-<img src="https://github.com/catharinadepari/catharinatile/blob/master/tiles/lab4.jpg" width='800'> <br>
+<img src="https://github.com/catharinadepari/catharinatile/blob/master/tiles/lab4.jpg" width='880'> <br>
 
 # Green Open Spaces in the Center of Seattle<br>
 ### :newspaper: Introduction
