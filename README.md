@@ -5,7 +5,7 @@
 This project is intended to visualize the spatial distribution of **`green open spaces`** in the center of City Seattle. Two major parks that are emphasized at this leaflet are **`Discovery Park Ballard`** in the West and **`Wodland Park Roosesevelt`** near the Green Lake in the center of Seattle. Woodland Park is surrounded by residential neighborhoods and is relatively accessible. While the Discovery Park is relativey isolated from its surounding residential neighborhoods. Street is stressed in the leaflet to emphasize how the streetcar I-5 Express and 99 mitght impact not only the accessbility but also the safety of residents and park users.<br>
 
 ### :hammer: Tiles, Geographic Area, and Zoom Levels Selection
-<img src="https://github.com/catharinadepari/catharinatile/blob/master/tiles/lab4.jpg" width='950'> <br>
+<img src="https://github.com/catharinadepari/catharinatile/blob/master/tiles/lab4.jpg" width='8000' align:'center'> <br>
 
 The layer map was created by using **`Mapbox Studio's Outdoors`** style template [1], which was later modified in terms of colors. Open space was emphasized by increasing the intensity of its green color. Tiles were retrieved from **`QuickMetaTiles`** which cut the layer map into 256 x 256 pixels tiles. There were 12 tilesets reterieved from this process. <br>
 **City Seattle** was chosen as the geographic area with coordinates of **`47.662725132346495 latitude`** and **`-122.33827001436774 longitude`** <br>
