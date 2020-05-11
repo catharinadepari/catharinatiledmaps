@@ -10,7 +10,7 @@ The layer map was created by using **`Mapbox Studio's Outdoors`** style template
 
 **City Seattle** was chosen as the geographic area with coordinates of **`47.662725132346495 latitude`** and **`-122.33827001436774 longitude`**. <br>
 
-The **zoom level of the tile layer was set at 12** and the **zoom levels of the basemap are 7 for the zoom, 12 for maximum Zoom and 2 for the minimum Zoom**. This zoom levels arrangement provides us with:
+The **`zoom levels of the basemap`** are set at 7 for the zoom, 12 for maximum Zoom and 2 for the minimum Zoom and **`zoom level of the tile layer`** was set at 12. The zoom levels provides us with:
 - map's width and heights of  **`1,048,576 pixels `**,
 - ground resolution of  **`38.125 meters/pixels`**, and
 - map scale (at 96dpi) of **`1: 144, 447.93`**.
